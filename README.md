@@ -24,4 +24,10 @@ The Job Recommendation System consists of multiple components:
          - cd path of file
          - conda activate(optional)
          - python main.py
-    
+3. Follow the instructions in the user interface to add jobs, candidates, match candidates to jobs, and view the results.
+# Dependencies
+
+- 'nltk': Natural Language Toolkit for NLP processing.
+- 'scikit-learn': Library for machine learning algorithms.
+- 'numpy': Library for numerical computing.
+
